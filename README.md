@@ -1,4 +1,4 @@
-# aviso_termino
+# automatiza_correo_excel_python
 # Sencillo código para automatizar envio de correos cumpliendo un criterio (fechas) desde listado excel.
 # Se acompaña una planilla excel (puedes usarla para testear). 
 # Pensado para la gestión de cartas de aviso por no renovación de contratos, pero el template sirve para otras tareas.
